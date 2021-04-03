@@ -4,4 +4,4 @@ Optimization is important because it provides flexible solutions to problems ass
 
 I make use of the following: (1) Dynamic rebalancing, (2) Walk forward testing, (3) Grid testing, and (4) Genetic algorithm.
 
-The code is partly based on Dr. Param Jeet's and Prashan Vats' book 'Learning Quantitative Finance with R'. I recommend it for those interested on learning more complex coding skills related to Quantitative Finance.  [In progress.]
+[In progress.]
